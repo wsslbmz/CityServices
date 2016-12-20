@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CityServices</string>
+    <string name="facebook_app_id">710037785813411</string>
+    <string name="fb_login_protocol_scheme">fb710037785813411</string>
+    <string name="title_activity_map">Map</string>
+
+</resources>
